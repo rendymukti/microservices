@@ -1,0 +1,10 @@
+com\learnadvancedconcept\productservice\ProductServiceApplication.class
+com\learnadvancedconcept\productservice\dto\ProductRequest.class
+com\learnadvancedconcept\productservice\controller\productController.class
+com\learnadvancedconcept\productservice\model\Product$ProductBuilder.class
+com\learnadvancedconcept\productservice\repository\ProductRepository.class
+com\learnadvancedconcept\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\learnadvancedconcept\productservice\model\Product.class
+com\learnadvancedconcept\productservice\service\ProductService.class
+com\learnadvancedconcept\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\learnadvancedconcept\productservice\dto\ProductResponse.class
